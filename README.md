@@ -68,6 +68,11 @@ Na segunda parte do estudo, exploramos a integração do Python com o MongoDB, u
 
 Em resumo, aprendi  a estruturar dados usando o SQLAlchemy e a integrar Python com bancos de dados relacionais (SQLite) e NoSQL (MongoDB). Esses conceitos formam a base para criar aplicativos que armazenam, recuperam e manipulam dados de maneira eficaz.
 
+#### Documentação para explorar: https://docs.sqlalchemy.org/en/20/orm/query.html
+#### Documentação para explorar: https://docs.sqlalchemy.org/en/14/core/reflection.html#fine-grained-reflection-with-inspector
+#### Documentação para explorar: https://pymongo.readthedocs.io/en/stable/atlas.html
+
+
 #### Curso Formação Python Developer da Dio.me administrado pelo mentora Juliana Mascarenhas/ Data Scientist, DIO
 
 [DIO](https://www.dio.me/).
